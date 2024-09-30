@@ -8,7 +8,7 @@ type Props = NativeStackScreenProps<RootStackParamList, "Details">;
 export default function DetailsScreen() {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Detai</Text>
+      <Text>Detail</Text>
     </View>
   );
 }
