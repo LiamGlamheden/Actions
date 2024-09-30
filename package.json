@@ -7,8 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "format": "npx run prettier --check .",
-    "types": "npx run tsc --noEmit"
+    "format": "npx prettier --check ",
+    "types": "npx tsc --noEmit"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.18",
