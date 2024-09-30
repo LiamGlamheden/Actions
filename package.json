@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "format": "prettier --check .",
     "types": "tsc --noEmit",
-    "Lint" : "eslint ."
+    "Lint": "eslint ."
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.18",
